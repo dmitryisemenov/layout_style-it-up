@@ -1,0 +1,2 @@
+- [Demo link](https://dmitryisemenov.github.io/layout_style-it-up/)
+- [Test report](https://dmitryisemenov.github.io/layout_style-it-up/report/html_report/)
